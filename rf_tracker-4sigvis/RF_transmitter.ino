@@ -1,38 +1,19 @@
 /*
- RF ASK Tx and Rx Example
- Created in 2011 by NPoole @ SparkFun Electronics 
- 
+ RF ASK Tx and Rx Example Code
+ Created in 2011 by NPoole @ SparkFun Electronics
+
  modified 5 Feb 2015
- by Bobby Chan @ SparkFun Electronics 
- 
+ by Bobby Chan @ SparkFun Electronics
+
+ modified again
+ by <git log --oneline --graph --decorate --all> 🤔
+
  Description:
  This code depends on the VirtualWire Library for Arduino and is
  based on the example code provided by Mike McCauley (mikem@open.com.au)
  To download the most recent VirtualWire Library =>
  http://www.airspayce.com/mikem/arduino/VirtualWire/index.html
- See VirtualWire.h for detailed API docs. You will need to use this code
- with the RFLink_Rx.pde.
- 
- This example shows how to use the VirtualWire library to send and receive
- simple messages and use them to control digital I/O pins with the RF Links. 
- Can be used for either the 315MHz or 434MHz frequency bands. Be sure that the
- transmitter and the receiver are using the same frequency in order to transmit
- data. Buttons are connected to the transmitting Arduino on pins 8-11 and ground.
- Arduino's internal pullup resistor is used with the button. Pin 13 is enabled
- as a status LED to indicate when characters are being sent.
- 
- For the receiving side, they are set up in the same fashion, where LEDs are 
- connected to the receiving Arduino on pins 8-11. When a button is pressed on the
- transmitter, the corresponding LED will light on the receiver if the character
- matches what is expected. Pin 13 is enabled as a status LED to indicate
- when characters are being received.
- 
- Note: The reason why this is still in a .pde extension file is so that it can
- be used for either Arduino 00xx and Arduino 1.0.x. If Rx code is compiled
- in Arduino 0023 and below, the serial monitor will output as the ASCII characters.
- If Rx code is compiled in Arduino 1.0+, the serial monitor will 
- output the decimal value of the ASCII character. Check out the ASCII Table
- http://www.asciitable.com/ for more information.
+ See VirtualWire.h for detailed API docs.
  */
 
 // RF LINK TRANSMITTER CODE
