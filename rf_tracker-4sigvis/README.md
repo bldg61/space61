@@ -2,6 +2,7 @@
 
 ### Four signal radio frequency transmitter and receiver
 
+* You will need to install the VirtualWire library. Go to [airspayce.com/mikem/arduino/VirtualWire](http://www.airspayce.com/mikem/arduino/VirtualWire/index.html), get the latest, unzip, and place entire folder in your `Arduino/libraries` directory.
 * To see serial output from transmitter or receiver in Arduino IDE Serial Monitor, be sure and match the baud rate used in the code (9600).
 * Problems finding your port for a plugged in board? Try hitting the board reset button, or change the connection cable.
 * Code starting place is from [github.com/bboyho/RF_Links](https://github.com/bboyho/RF_Links)
