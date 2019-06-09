@@ -2,7 +2,9 @@
 
 ### Four signal radio frequency transmitter and receiver
 
-Code starting place is from [github.com/bboyho/RF_Links](https://github.com/bboyho/RF_Links)
+* To see serial output from transmitter or receiver in Arduino IDE Serial Monitor, be sure and match the baud rate used in the code (9600).
+* Problems finding your port for a plugged in board? Try hitting the board reset button, or change the connection cable.
+* Code starting place is from [github.com/bboyho/RF_Links](https://github.com/bboyho/RF_Links)
 
 #### Transmitter:
 
