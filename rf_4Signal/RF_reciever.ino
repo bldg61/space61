@@ -1,12 +1,12 @@
 /*
  RF ASK Tx and Rx Example Code
  Created in 2011 by NPoole @ SparkFun Electronics
- 
+
  modified 5 Feb 2015
  by Bobby Chan @ SparkFun Electronics
 
  modified again
- by <git log --oneline --graph --decorate --all> 🤔
+ by <git log --oneline --graph --decorate --all>
 
  Description:
  This code depends on the VirtualWire Library for Arduino and is
@@ -19,10 +19,9 @@
 // RF LINK RECEIVER CODE
 #include <VirtualWire.h>
 
-void setup()
-{
+void setup(){
   Serial.begin(9600);  // Debugging only
-  Serial.println("Initialize RF Link Rx Code");
+  Serial.println("Initialize RF Link Receiver Code");
 
   //Initialize the IO and ISR
   vw_set_ptt_inverted(true); // Required for DR3100
@@ -40,8 +39,7 @@ void setup()
   pinMode (13, OUTPUT);
 }
 
-void loop()
-{
+void loop(){
   //Initialize/reinitialize LEDs
   digitalWrite(8, LOW);
   digitalWrite(9, LOW);

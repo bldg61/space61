@@ -6,7 +6,7 @@
  by Bobby Chan @ SparkFun Electronics
 
  modified again
- by <git log --oneline --graph --decorate --all> 🤔
+ by <git log --oneline --graph --decorate --all>
 
  Description:
  This code depends on the VirtualWire Library for Arduino and is
@@ -19,10 +19,9 @@
 // RF LINK TRANSMITTER CODE
 #include <VirtualWire.h>
 
-void setup()
-{
+void setup(){
   Serial.begin(9600);    // Debugging only
-  Serial.println("Initialize RF Link Tx Code");
+  Serial.println("Initialize RF Link Transmitter Code");
 
   // Initialise the IO and ISR
   vw_set_ptt_inverted(true); // Required for DR3100
@@ -45,8 +44,7 @@ void setup()
   digitalWrite(11, HIGH);
 }
 
-void loop()
-{
+void loop(){
   char *msg;
 
   if(digitalRead(8) == LOW){
