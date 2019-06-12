@@ -35,3 +35,4 @@ Assembly:
 * 2 black "ground" wires: Connect RedBoard ground to pin 1 of the RF Receiver. Connect other RedBoard ground to speaker ground.
 * 1 orange "receiver signal" wire: Connect pin 3 of the RF Receiver to speaker power
 * 1 red "power" wire: connect Redboard 5V to pin 5 of RF Receiver.
+* An Antenna can be attached to pin 8 of the RF Receiver.
