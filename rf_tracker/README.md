@@ -2,7 +2,7 @@
 
 ### One signal radio frequency transmitter and receiver
 
-* Note! The RedBoard for the Reciever is ONLY providing power. No code is needed, and this can be exchanged for an alternative power source.
+* Note! The RedBoard for the Reciever is ONLY providing power. No code is actually needed, and the entire receiver RedBoard can be exchanged for an alternative power source for the receiver.
 * Problems finding your port for a plugged in board? Try hitting the board reset button, or change the connection cable.
 
 #### Transmitter:
@@ -12,7 +12,7 @@ Required materials:
 1. RedBoard or Arduino Uno
 1. [Breadboard - 1/4 size is sufficient](https://www.sparkfun.com/products/12002)
 1. Jumper wires - 1 black, 1 orange, 1 red
-1. [RF transmitter pin diagrams linked under Documents -> Datasheet](https://www.sparkfun.com/products/10534)
+1. [RF transmitter (pin diagrams linked under Documents -> Datasheet)](https://www.sparkfun.com/products/10534)
 
 Assembly:
 

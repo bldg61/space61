@@ -15,7 +15,7 @@ Required materials:
 1. [Breadboard - 1/2 size is sufficient](https://www.sparkfun.com/products/12002)
 1. Jumper wires - 6 black, 1 orange, 2 red, 1 yellow, 1 green, 1 blue (or whatever you have)
 1. [Buttons - one each red, yellow, green, blue](https://www.sparkfun.com/products/15326)
-1. [RF transmitter pin diagrams linked under Documents -> Datasheet](https://www.sparkfun.com/products/10534)
+1. [RF transmitter (pin diagrams linked under Documents -> Datasheet)](https://www.sparkfun.com/products/10534)
 
 Assembly:
 
