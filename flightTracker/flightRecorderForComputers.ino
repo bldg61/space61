@@ -39,7 +39,7 @@ void setup()
   Serial.println();
   Serial.println(F("BLDG 61 High Altitude Balloon Flight"));
   Serial.println();
-  Serial.println(F("Timestamp in UTC, Lat, Lon, Altitude in Feet, Temperature in Celsius, Pressure in HectoPascals"));
+  Serial.println(F("Timestamp in UTC, Lat, Lon, Altitude in Feet, Temperature in Fahrenheit, Pressure in HectoPascals"));
 }
 
 void loop()
