@@ -1,0 +1,2045 @@
+ Altitude(ft): 7068.77
+ Pressure(Pa): 8618.25
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:50.00
+ Altitude(ft): 7063.44
+ Pressure(Pa): 8611.75
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:50.00
+ Altitude(ft): 7059.14
+ Pressure(Pa): 8606.50
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:50.00
+ Altitude(ft): 7051.76
+ Pressure(Pa): 8597.50
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:51.00
+ Altitude(ft): 7046.22
+ Pressure(Pa): 8590.75
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:51.00
+ Altitude(ft): 7040.07
+ Pressure(Pa): 8583.25
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:52.00
+ Altitude(ft): 7030.84
+ Pressure(Pa): 8572.00
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:52.00
+ Altitude(ft): 7024.89
+ Pressure(Pa): 8564.75
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:52.00
+ Altitude(ft): 7021.41
+ Pressure(Pa): 8560.50
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:53.00
+ Altitude(ft): 7015.46
+ Pressure(Pa): 8553.25
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:53.00
+ Altitude(ft): 7006.85
+ Pressure(Pa): 8542.75
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:54.00
+ Altitude(ft): 6999.47
+ Pressure(Pa): 8533.75
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:54.00
+ Altitude(ft): 6994.55
+ Pressure(Pa): 8527.75
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:54.00
+ Altitude(ft): 6987.16
+ Pressure(Pa): 8518.75
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:55.00
+ Altitude(ft): 6981.63
+ Pressure(Pa): 8512.00
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:55.00
+ Altitude(ft): 6973.63
+ Pressure(Pa): 8502.25
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:56.00
+ Altitude(ft): 6966.04
+ Pressure(Pa): 8493.00
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:56.00
+ Altitude(ft): 6959.89
+ Pressure(Pa): 8485.50
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:56.00
+ Altitude(ft): 6950.87
+ Pressure(Pa): 8474.50
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:57.00
+ Altitude(ft): 6944.72
+ Pressure(Pa): 8467.00
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:57.00
+ Altitude(ft): 6935.70
+ Pressure(Pa): 8456.00
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:57.00
+ Altitude(ft): 6930.77
+ Pressure(Pa): 8450.00
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:58.00
+ Altitude(ft): 6924.01
+ Pressure(Pa): 8441.75
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:58.00
+ Altitude(ft): 6916.83
+ Pressure(Pa): 8433.00
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:59.00
+ Altitude(ft): 6909.04
+ Pressure(Pa): 8423.50
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:59.00
+ Altitude(ft): 6903.09
+ Pressure(Pa): 8416.25
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:24:59.00
+ Altitude(ft): 6894.68
+ Pressure(Pa): 8406.00
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:00.00
+ Altitude(ft): 6889.76
+ Pressure(Pa): 8400.00
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:00.00
+ Altitude(ft): 6880.13
+ Pressure(Pa): 8388.25
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:00.00
+ Altitude(ft): 6871.10
+ Pressure(Pa): 8377.25
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:01.00
+ Altitude(ft): 6860.65
+ Pressure(Pa): 8364.50
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:01.00
+ Altitude(ft): 6851.01
+ Pressure(Pa): 8352.75
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:02.00
+ Altitude(ft): 6843.01
+ Pressure(Pa): 8343.00
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:02.00
+ Altitude(ft): 6833.17
+ Pressure(Pa): 8331.00
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:02.00
+ Altitude(ft): 6826.61
+ Pressure(Pa): 8323.00
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:03.00
+ Altitude(ft): 6818.00
+ Pressure(Pa): 8312.50
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:03.00
+ Altitude(ft): 6811.02
+ Pressure(Pa): 8304.00
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:04.00
+ Altitude(ft): 6808.56
+ Pressure(Pa): 8301.00
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:04.00
+ Altitude(ft): 6801.18
+ Pressure(Pa): 8292.00
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:05.00
+ Altitude(ft): 6795.64
+ Pressure(Pa): 8285.25
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:05.00
+ Altitude(ft): 6783.96
+ Pressure(Pa): 8271.00
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:05.00
+ Altitude(ft): 6773.29
+ Pressure(Pa): 8258.00
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:06.00
+ Altitude(ft): 6764.89
+ Pressure(Pa): 8247.75
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:06.00
+ Altitude(ft): 6753.61
+ Pressure(Pa): 8234.00
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:07.00
+ Altitude(ft): 6746.23
+ Pressure(Pa): 8225.00
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:07.00
+ Altitude(ft): 6737.82
+ Pressure(Pa): 8214.75
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:07.00
+ Altitude(ft): 6729.21
+ Pressure(Pa): 8204.25
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:08.00
+ Altitude(ft): 6721.21
+ Pressure(Pa): 8194.50
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:08.00
+ Altitude(ft): 6715.47
+ Pressure(Pa): 8187.50
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:08.00
+ Altitude(ft): 6705.01
+ Pressure(Pa): 8174.75
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:09.00
+ Altitude(ft): 6697.83
+ Pressure(Pa): 8166.00
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:09.00
+ Altitude(ft): 6690.25
+ Pressure(Pa): 8156.75
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:10.00
+ Altitude(ft): 6674.66
+ Pressure(Pa): 8137.75
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:10.00
+ Altitude(ft): 6666.46
+ Pressure(Pa): 8127.75
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:10.00
+ Altitude(ft): 6661.75
+ Pressure(Pa): 8122.00
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:11.00
+ Altitude(ft): 6652.31
+ Pressure(Pa): 8110.50
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:11.00
+ Altitude(ft): 6645.96
+ Pressure(Pa): 8102.75
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:12.00
+ Altitude(ft): 6639.39
+ Pressure(Pa): 8094.75
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:12.00
+ Altitude(ft): 6632.22
+ Pressure(Pa): 8086.00
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:12.00
+ Altitude(ft): 6626.68
+ Pressure(Pa): 8079.25
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:13.00
+ Altitude(ft): 6619.50
+ Pressure(Pa): 8070.50
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:13.00
+ Altitude(ft): 6609.25
+ Pressure(Pa): 8058.00
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:14.00
+ Altitude(ft): 6602.49
+ Pressure(Pa): 8049.75
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:14.00
+ Altitude(ft): 6594.69
+ Pressure(Pa): 8040.25
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:14.00
+ Altitude(ft): 6588.13
+ Pressure(Pa): 8032.25
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:15.00
+ Altitude(ft): 6579.11
+ Pressure(Pa): 8021.25
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:15.00
+ Altitude(ft): 6572.14
+ Pressure(Pa): 8012.75
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:16.00
+ Altitude(ft): 6566.60
+ Pressure(Pa): 8006.00
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:16.00
+ Altitude(ft): 6558.81
+ Pressure(Pa): 7996.50
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:16.00
+ Altitude(ft): 6550.61
+ Pressure(Pa): 7986.50
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:17.00
+ Altitude(ft): 6537.69
+ Pressure(Pa): 7970.75
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:17.00
+ Altitude(ft): 6526.82
+ Pressure(Pa): 7957.50
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:18.00
+ Altitude(ft): 6520.46
+ Pressure(Pa): 7949.75
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:18.00
+ Altitude(ft): 6513.70
+ Pressure(Pa): 7941.50
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:18.00
+ Altitude(ft): 6505.70
+ Pressure(Pa): 7931.75
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:19.00
+ Altitude(ft): 6502.83
+ Pressure(Pa): 7928.25
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:19.00
+ Altitude(ft): 6494.42
+ Pressure(Pa): 7918.00
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:20.00
+ Altitude(ft): 6486.63
+ Pressure(Pa): 7908.50
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:20.00
+ Altitude(ft): 6478.02
+ Pressure(Pa): 7898.00
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:20.00
+ Altitude(ft): 6468.59
+ Pressure(Pa): 7886.50
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:21.00
+ Altitude(ft): 6459.56
+ Pressure(Pa): 7875.50
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:22.00
+ Altitude(ft): 6448.29
+ Pressure(Pa): 7861.75
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:22.00
+ Altitude(ft): 6434.14
+ Pressure(Pa): 7844.50
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:22.00
+ Altitude(ft): 6422.04
+ Pressure(Pa): 7829.75
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:23.00
+ Altitude(ft): 6415.89
+ Pressure(Pa): 7822.25
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:23.00
+ Altitude(ft): 6405.02
+ Pressure(Pa): 7809.00
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:23.00
+ Altitude(ft): 6396.20
+ Pressure(Pa): 7798.25
+ Temp(f):      88.36
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:24.00
+ Altitude(ft): 6392.72
+ Pressure(Pa): 7794.00
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:24.00
+ Altitude(ft): 6385.74
+ Pressure(Pa): 7785.50
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:25.00
+ Altitude(ft): 6378.16
+ Pressure(Pa): 7776.25
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:25.00
+ Altitude(ft): 6367.08
+ Pressure(Pa): 7762.75
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:25.00
+ Altitude(ft): 6358.27
+ Pressure(Pa): 7752.00
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:26.00
+ Altitude(ft): 6343.71
+ Pressure(Pa): 7734.25
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:26.00
+ Altitude(ft): 6341.04
+ Pressure(Pa): 7731.00
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:26.00
+ Altitude(ft): 6335.10
+ Pressure(Pa): 7723.75
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:27.00
+ Altitude(ft): 6325.46
+ Pressure(Pa): 7712.00
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:27.00
+ Altitude(ft): 6316.44
+ Pressure(Pa): 7701.00
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:28.00
+ Altitude(ft): 6312.54
+ Pressure(Pa): 7696.25
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:28.00
+ Altitude(ft): 6302.08
+ Pressure(Pa): 7683.50
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:28.00
+ Altitude(ft): 6294.50
+ Pressure(Pa): 7674.25
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:29.00
+ Altitude(ft): 6284.65
+ Pressure(Pa): 7662.25
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:29.00
+ Altitude(ft): 6276.66
+ Pressure(Pa): 7652.50
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:30.00
+ Altitude(ft): 6266.20
+ Pressure(Pa): 7639.75
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:30.00
+ Altitude(ft): 6254.72
+ Pressure(Pa): 7625.75
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:30.00
+ Altitude(ft): 6244.46
+ Pressure(Pa): 7613.25
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:31.00
+ Altitude(ft): 6235.65
+ Pressure(Pa): 7602.50
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:31.00
+ Altitude(ft): 6225.39
+ Pressure(Pa): 7590.00
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:32.00
+ Altitude(ft): 6214.12
+ Pressure(Pa): 7576.25
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:32.00
+ Altitude(ft): 6205.09
+ Pressure(Pa): 7565.25
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:32.00
+ Altitude(ft): 6196.89
+ Pressure(Pa): 7555.25
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:33.00
+ Altitude(ft): 6189.10
+ Pressure(Pa): 7545.75
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:33.00
+ Altitude(ft): 6183.56
+ Pressure(Pa): 7539.00
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:33.00
+ Altitude(ft): 6171.87
+ Pressure(Pa): 7524.75
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:34.00
+ Altitude(ft): 6165.93
+ Pressure(Pa): 7517.50
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:34.00
+ Altitude(ft): 6160.80
+ Pressure(Pa): 7511.25
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:35.00
+ Altitude(ft): 6153.01
+ Pressure(Pa): 7501.75
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:35.00
+ Altitude(ft): 6147.88
+ Pressure(Pa): 7495.50
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:36.00
+ Altitude(ft): 6138.04
+ Pressure(Pa): 7483.50
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:36.00
+ Altitude(ft): 6131.68
+ Pressure(Pa): 7475.75
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:36.00
+ Altitude(ft): 6124.71
+ Pressure(Pa): 7467.25
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:37.00
+ Altitude(ft): 6115.49
+ Pressure(Pa): 7456.00
+ Temp(f):      88.02
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:37.00
+ Altitude(ft): 6108.72
+ Pressure(Pa): 7447.75
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:38.00
+ Altitude(ft): 6101.75
+ Pressure(Pa): 7439.25
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:38.00
+ Altitude(ft): 6089.03
+ Pressure(Pa): 7423.75
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:38.00
+ Altitude(ft): 6081.24
+ Pressure(Pa): 7414.25
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:39.00
+ Altitude(ft): 6071.60
+ Pressure(Pa): 7402.50
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:39.00
+ Altitude(ft): 6063.40
+ Pressure(Pa): 7392.50
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:39.00
+ Altitude(ft): 6058.48
+ Pressure(Pa): 7386.50
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:40.00
+ Altitude(ft): 6047.82
+ Pressure(Pa): 7373.50
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:40.00
+ Altitude(ft): 6036.34
+ Pressure(Pa): 7359.50
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:41.00
+ Altitude(ft): 6033.87
+ Pressure(Pa): 7356.50
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:41.00
+ Altitude(ft): 6027.11
+ Pressure(Pa): 7348.25
+ Temp(f):      88.14
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:41.00
+ Altitude(ft): 6018.91
+ Pressure(Pa): 7338.25
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:42.00
+ Altitude(ft): 6009.47
+ Pressure(Pa): 7326.75
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:42.00
+ Altitude(ft): 6001.68
+ Pressure(Pa): 7317.25
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:42.00
+ Altitude(ft): 5998.81
+ Pressure(Pa): 7313.75
+ Temp(f):      88.25
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:43.00
+ Altitude(ft): 5990.40
+ Pressure(Pa): 7303.50
+ Temp(f):      88.36
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:43.00
+ Altitude(ft): 5981.79
+ Pressure(Pa): 7293.00
+ Temp(f):      88.36
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:44.00
+ Altitude(ft): 5982.61
+ Pressure(Pa): 7294.00
+ Temp(f):      88.36
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:44.00
+ Altitude(ft): 5975.64
+ Pressure(Pa): 7285.50
+ Temp(f):      88.36
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:44.00
+ Altitude(ft): 5967.03
+ Pressure(Pa): 7275.00
+ Temp(f):      88.36
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:45.00
+ Altitude(ft): 5959.24
+ Pressure(Pa): 7265.50
+ Temp(f):      88.36
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:45.00
+ Altitude(ft): 5952.88
+ Pressure(Pa): 7257.75
+ Temp(f):      88.36
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:46.00
+ Altitude(ft): 5945.91
+ Pressure(Pa): 7249.25
+ Temp(f):      88.36
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:46.00
+ Altitude(ft): 5940.99
+ Pressure(Pa): 7243.25
+ Temp(f):      88.36
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:47.00
+ Altitude(ft): 5937.50
+ Pressure(Pa): 7239.00
+ Temp(f):      88.36
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:47.00
+ Altitude(ft): 5929.09
+ Pressure(Pa): 7228.75
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:47.00
+ Altitude(ft): 5925.61
+ Pressure(Pa): 7224.50
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:48.00
+ Altitude(ft): 5919.87
+ Pressure(Pa): 7217.50
+ Temp(f):      88.36
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:48.00
+ Altitude(ft): 5910.64
+ Pressure(Pa): 7206.25
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:49.00
+ Altitude(ft): 5910.02
+ Pressure(Pa): 7205.50
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:49.00
+ Altitude(ft): 5903.87
+ Pressure(Pa): 7198.00
+ Temp(f):      88.36
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:49.00
+ Altitude(ft): 5897.72
+ Pressure(Pa): 7190.50
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:50.00
+ Altitude(ft): 5891.57
+ Pressure(Pa): 7183.00
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:50.00
+ Altitude(ft): 5885.21
+ Pressure(Pa): 7175.25
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:50.00
+ Altitude(ft): 5878.24
+ Pressure(Pa): 7166.75
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:51.00
+ Altitude(ft): 5872.70
+ Pressure(Pa): 7160.00
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:51.00
+ Altitude(ft): 5868.40
+ Pressure(Pa): 7154.75
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:52.00
+ Altitude(ft): 5865.12
+ Pressure(Pa): 7150.75
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:52.00
+ Altitude(ft): 5862.25
+ Pressure(Pa): 7147.25
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:52.00
+ Altitude(ft): 5864.30
+ Pressure(Pa): 7149.75
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:53.00
+ Altitude(ft): 5856.09
+ Pressure(Pa): 7139.75
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:53.00
+ Altitude(ft): 5845.84
+ Pressure(Pa): 7127.25
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:54.00
+ Altitude(ft): 5839.48
+ Pressure(Pa): 7119.50
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:54.00
+ Altitude(ft): 5828.62
+ Pressure(Pa): 7106.25
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:54.00
+ Altitude(ft): 5823.70
+ Pressure(Pa): 7100.25
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:55.00
+ Altitude(ft): 5820.62
+ Pressure(Pa): 7096.50
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:55.00
+ Altitude(ft): 5813.44
+ Pressure(Pa): 7087.75
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:56.00
+ Altitude(ft): 5807.91
+ Pressure(Pa): 7081.00
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:56.00
+ Altitude(ft): 5804.63
+ Pressure(Pa): 7077.00
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:56.00
+ Altitude(ft): 5796.01
+ Pressure(Pa): 7066.50
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:57.00
+ Altitude(ft): 5792.73
+ Pressure(Pa): 7062.50
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:57.00
+ Altitude(ft): 5787.40
+ Pressure(Pa): 7056.00
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:58.00
+ Altitude(ft): 5784.94
+ Pressure(Pa): 7053.00
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:58.00
+ Altitude(ft): 5781.87
+ Pressure(Pa): 7049.25
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:58.00
+ Altitude(ft): 5776.74
+ Pressure(Pa): 7043.00
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:59.00
+ Altitude(ft): 5771.00
+ Pressure(Pa): 7036.00
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:25:59.00
+ Altitude(ft): 5764.85
+ Pressure(Pa): 7028.50
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:00.00
+ Altitude(ft): 5762.18
+ Pressure(Pa): 7025.25
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:00.00
+ Altitude(ft): 5751.11
+ Pressure(Pa): 7011.75
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:00.00
+ Altitude(ft): 5748.24
+ Pressure(Pa): 7008.25
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:01.00
+ Altitude(ft): 5744.96
+ Pressure(Pa): 7004.25
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:01.00
+ Altitude(ft): 5736.55
+ Pressure(Pa): 6994.00
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:02.00
+ Altitude(ft): 5727.32
+ Pressure(Pa): 6982.75
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:02.00
+ Altitude(ft): 5720.76
+ Pressure(Pa): 6974.75
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:02.00
+ Altitude(ft): 5713.79
+ Pressure(Pa): 6966.25
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:03.00
+ Altitude(ft): 5707.02
+ Pressure(Pa): 6958.00
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:04.00
+ Altitude(ft): 5700.25
+ Pressure(Pa): 6949.75
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:04.00
+ Altitude(ft): 5690.82
+ Pressure(Pa): 6938.25
+ Temp(f):      88.47
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:04.00
+ Altitude(ft): 5680.36
+ Pressure(Pa): 6925.50
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:05.00
+ Altitude(ft): 5671.75
+ Pressure(Pa): 6915.00
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:05.00
+ Altitude(ft): 5665.81
+ Pressure(Pa): 6907.75
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:05.00
+ Altitude(ft): 5663.55
+ Pressure(Pa): 6905.00
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:06.00
+ Altitude(ft): 5654.32
+ Pressure(Pa): 6893.75
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:06.00
+ Altitude(ft): 5646.12
+ Pressure(Pa): 6883.75
+ Temp(f):      88.70
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:07.00
+ Altitude(ft): 5642.43
+ Pressure(Pa): 6879.25
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:07.00
+ Altitude(ft): 5631.97
+ Pressure(Pa): 6866.50
+ Temp(f):      88.59
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:07.00
+ Altitude(ft): 5627.05
+ Pressure(Pa): 6860.50
+ Temp(f):      88.70
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:08.00
+ Altitude(ft): 5622.33
+ Pressure(Pa): 6854.75
+ Temp(f):      88.70
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:08.00
+ Altitude(ft): 5616.18
+ Pressure(Pa): 6847.25
+ Temp(f):      88.70
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:08.00
+ Altitude(ft): 5612.70
+ Pressure(Pa): 6843.00
+ Temp(f):      88.70
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:09.00
+ Altitude(ft): 5605.93
+ Pressure(Pa): 6834.75
+ Temp(f):      88.70
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:09.00
+ Altitude(ft): 5600.19
+ Pressure(Pa): 6827.75
+ Temp(f):      88.70
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:10.00
+ Altitude(ft): 5592.19
+ Pressure(Pa): 6818.00
+ Temp(f):      88.81
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:10.00
+ Altitude(ft): 5587.68
+ Pressure(Pa): 6812.50
+ Temp(f):      88.81
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:10.00
+ Altitude(ft): 5580.30
+ Pressure(Pa): 6803.50
+ Temp(f):      88.81
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:11.00
+ Altitude(ft): 5573.33
+ Pressure(Pa): 6795.00
+ Temp(f):      88.81
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:11.00
+ Altitude(ft): 5567.59
+ Pressure(Pa): 6788.00
+ Temp(f):      88.81
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:12.00
+ Altitude(ft): 5555.90
+ Pressure(Pa): 6773.75
+ Temp(f):      88.81
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:12.00
+ Altitude(ft): 5548.11
+ Pressure(Pa): 6764.25
+ Temp(f):      88.81
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:12.00
+ Altitude(ft): 5541.54
+ Pressure(Pa): 6756.25
+ Temp(f):      88.81
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:13.00
+ Altitude(ft): 5537.65
+ Pressure(Pa): 6751.50
+ Temp(f):      88.81
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:13.00
+ Altitude(ft): 5530.06
+ Pressure(Pa): 6742.25
+ Temp(f):      88.81
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:13.00
+ Altitude(ft): 5524.52
+ Pressure(Pa): 6735.50
+ Temp(f):      88.81
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:14.00
+ Altitude(ft): 5516.32
+ Pressure(Pa): 6725.50
+ Temp(f):      88.81
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:14.00
+ Altitude(ft): 5512.22
+ Pressure(Pa): 6720.50
+ Temp(f):      88.81
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:15.00
+ Altitude(ft): 5502.58
+ Pressure(Pa): 6708.75
+ Temp(f):      88.81
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:15.00
+ Altitude(ft): 5498.69
+ Pressure(Pa): 6704.00
+ Temp(f):      88.81
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:15.00
+ Altitude(ft): 5490.90
+ Pressure(Pa): 6694.50
+ Temp(f):      88.93
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:16.00
+ Altitude(ft): 5480.44
+ Pressure(Pa): 6681.75
+ Temp(f):      88.93
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:16.00
+ Altitude(ft): 5474.90
+ Pressure(Pa): 6675.00
+ Temp(f):      88.93
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:17.00
+ Altitude(ft): 5467.72
+ Pressure(Pa): 6666.25
+ Temp(f):      88.93
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:17.00
+ Altitude(ft): 5458.50
+ Pressure(Pa): 6655.00
+ Temp(f):      88.93
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:18.00
+ Altitude(ft): 5450.71
+ Pressure(Pa): 6645.50
+ Temp(f):      89.04
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:18.00
+ Altitude(ft): 5441.89
+ Pressure(Pa): 6634.75
+ Temp(f):      88.93
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:18.00
+ Altitude(ft): 5432.46
+ Pressure(Pa): 6623.25
+ Temp(f):      89.04
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:19.00
+ Altitude(ft): 5421.38
+ Pressure(Pa): 6609.75
+ Temp(f):      89.04
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:19.00
+ Altitude(ft): 5413.59
+ Pressure(Pa): 6600.25
+ Temp(f):      89.04
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:20.00
+ Altitude(ft): 5403.95
+ Pressure(Pa): 6588.50
+ Temp(f):      89.04
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:20.00
+ Altitude(ft): 5401.29
+ Pressure(Pa): 6585.25
+ Temp(f):      88.93
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:20.00
+ Altitude(ft): 5391.04
+ Pressure(Pa): 6572.75
+ Temp(f):      89.04
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:21.00
+ Altitude(ft): 5380.37
+ Pressure(Pa): 6559.75
+ Temp(f):      89.04
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:21.00
+ Altitude(ft): 5375.25
+ Pressure(Pa): 6553.50
+ Temp(f):      89.04
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:22.00
+ Altitude(ft): 5368.68
+ Pressure(Pa): 6545.50
+ Temp(f):      89.04
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:22.00
+ Altitude(ft): 5361.92
+ Pressure(Pa): 6537.25
+ Temp(f):      89.04
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:22.00
+ Altitude(ft): 5355.77
+ Pressure(Pa): 6529.75
+ Temp(f):      89.04
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:23.00
+ Altitude(ft): 5348.18
+ Pressure(Pa): 6520.50
+ Temp(f):      89.04
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:23.00
+ Altitude(ft): 5339.16
+ Pressure(Pa): 6509.50
+ Temp(f):      89.04
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:24.00
+ Altitude(ft): 5331.98
+ Pressure(Pa): 6500.75
+ Temp(f):      89.15
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:24.00
+ Altitude(ft): 5325.42
+ Pressure(Pa): 6492.75
+ Temp(f):      89.15
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:24.00
+ Altitude(ft): 5319.06
+ Pressure(Pa): 6485.00
+ Temp(f):      89.15
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:25.00
+ Altitude(ft): 5313.53
+ Pressure(Pa): 6478.25
+ Temp(f):      89.15
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:25.00
+ Altitude(ft): 5305.12
+ Pressure(Pa): 6468.00
+ Temp(f):      89.15
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:26.00
+ Altitude(ft): 5300.20
+ Pressure(Pa): 6462.00
+ Temp(f):      89.15
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:26.00
+ Altitude(ft): 5290.76
+ Pressure(Pa): 6450.50
+ Temp(f):      89.15
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:26.00
+ Altitude(ft): 5282.56
+ Pressure(Pa): 6440.50
+ Temp(f):      89.15
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:27.00
+ Altitude(ft): 5275.80
+ Pressure(Pa): 6432.25
+ Temp(f):      89.15
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:27.00
+ Altitude(ft): 5263.08
+ Pressure(Pa): 6416.75
+ Temp(f):      89.26
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:28.00
+ Altitude(ft): 5254.88
+ Pressure(Pa): 6406.75
+ Temp(f):      89.26
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:28.00
+ Altitude(ft): 5243.40
+ Pressure(Pa): 6392.75
+ Temp(f):      89.26
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:28.00
+ Altitude(ft): 5231.71
+ Pressure(Pa): 6378.50
+ Temp(f):      89.26
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:29.00
+ Altitude(ft): 5220.84
+ Pressure(Pa): 6365.25
+ Temp(f):      89.26
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:29.00
+ Altitude(ft): 5211.00
+ Pressure(Pa): 6353.25
+ Temp(f):      89.26
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:30.00
+ Altitude(ft): 5204.23
+ Pressure(Pa): 6345.00
+ Temp(f):      89.26
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:30.00
+ Altitude(ft): 5198.29
+ Pressure(Pa): 6337.75
+ Temp(f):      89.26
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:30.00
+ Altitude(ft): 5191.11
+ Pressure(Pa): 6329.00
+ Temp(f):      89.26
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:31.00
+ Altitude(ft): 5183.52
+ Pressure(Pa): 6319.75
+ Temp(f):      89.26
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:31.00
+ Altitude(ft): 5172.86
+ Pressure(Pa): 6306.75
+ Temp(f):      89.37
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:32.00
+ Altitude(ft): 5167.94
+ Pressure(Pa): 6300.75
+ Temp(f):      89.37
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:32.00
+ Altitude(ft): 5164.45
+ Pressure(Pa): 6296.50
+ Temp(f):      89.37
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:32.00
+ Altitude(ft): 5156.87
+ Pressure(Pa): 6287.25
+ Temp(f):      89.37
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:33.00
+ Altitude(ft): 5150.30
+ Pressure(Pa): 6279.25
+ Temp(f):      89.49
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:33.00
+ Altitude(ft): 5146.20
+ Pressure(Pa): 6274.25
+ Temp(f):      89.49
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:33.00
+ Altitude(ft): 5141.28
+ Pressure(Pa): 6268.25
+ Temp(f):      89.49
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:34.00
+ Altitude(ft): 5131.44
+ Pressure(Pa): 6256.25
+ Temp(f):      89.49
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:34.00
+ Altitude(ft): 5119.96
+ Pressure(Pa): 6242.25
+ Temp(f):      89.49
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:35.00
+ Altitude(ft): 5112.78
+ Pressure(Pa): 6233.50
+ Temp(f):      89.49
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:35.00
+ Altitude(ft): 5104.78
+ Pressure(Pa): 6223.75
+ Temp(f):      89.60
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:35.00
+ Altitude(ft): 5054.54
+ Pressure(Pa): 6162.50
+ Temp(f):      89.60
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:36.00
+ Altitude(ft): 5040.60
+ Pressure(Pa): 6145.50
+ Temp(f):      89.60
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:36.00
+ Altitude(ft): 5053.93
+ Pressure(Pa): 6161.75
+ Temp(f):      89.60
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:37.00
+ Altitude(ft): 5057.41
+ Pressure(Pa): 6166.00
+ Temp(f):      89.60
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:37.00
+ Altitude(ft): 5039.16
+ Pressure(Pa): 6143.75
+ Temp(f):      89.71
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:37.00
+ Altitude(ft): 5025.02
+ Pressure(Pa): 6126.50
+ Temp(f):      89.71
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:38.00
+ Altitude(ft): 5024.61
+ Pressure(Pa): 6126.00
+ Temp(f):      89.71
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:38.00
+ Altitude(ft): 5037.32
+ Pressure(Pa): 6141.50
+ Temp(f):      89.71
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:38.00
+ Altitude(ft): 5051.88
+ Pressure(Pa): 6159.25
+ Temp(f):      89.71
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:39.00
+ Altitude(ft): 5056.18
+ Pressure(Pa): 6164.50
+ Temp(f):      89.71
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:39.00
+ Altitude(ft): 5051.88
+ Pressure(Pa): 6159.25
+ Temp(f):      89.71
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:40.00
+ Altitude(ft): 5053.31
+ Pressure(Pa): 6161.00
+ Temp(f):      89.71
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:40.00
+ Altitude(ft): 5049.01
+ Pressure(Pa): 6155.75
+ Temp(f):      89.82
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:41.00
+ Altitude(ft): 5050.85
+ Pressure(Pa): 6158.00
+ Temp(f):      89.71
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:41.00
+ Altitude(ft): 5051.67
+ Pressure(Pa): 6159.00
+ Temp(f):      89.71
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:41.00
+ Altitude(ft): 5050.03
+ Pressure(Pa): 6157.00
+ Temp(f):      89.82
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:42.00
+ Altitude(ft): 5053.31
+ Pressure(Pa): 6161.00
+ Temp(f):      89.71
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:42.00
+ Altitude(ft): 5054.34
+ Pressure(Pa): 6162.25
+ Temp(f):      89.82
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:43.00
+ Altitude(ft): 5053.11
+ Pressure(Pa): 6160.75
+ Temp(f):      89.82
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:43.00
+ Altitude(ft): 5048.39
+ Pressure(Pa): 6155.00
+ Temp(f):      89.82
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:43.00
+ Altitude(ft): 5049.42
+ Pressure(Pa): 6156.25
+ Temp(f):      89.82
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:44.00
+ Altitude(ft): 5049.62
+ Pressure(Pa): 6156.50
+ Temp(f):      89.82
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:44.00
+ Altitude(ft): 5046.34
+ Pressure(Pa): 6152.50
+ Temp(f):      89.82
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:44.00
+ Altitude(ft): 5047.78
+ Pressure(Pa): 6154.25
+ Temp(f):      89.82
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:45.00
+ Altitude(ft): 5053.31
+ Pressure(Pa): 6161.00
+ Temp(f):      89.82
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:45.00
+ Altitude(ft): 5060.08
+ Pressure(Pa): 6169.25
+ Temp(f):      89.82
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:46.00
+ Altitude(ft): 5057.00
+ Pressure(Pa): 6165.50
+ Temp(f):      89.94
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:46.00
+ Altitude(ft): 5053.31
+ Pressure(Pa): 6161.00
+ Temp(f):      89.94
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:46.00
+ Altitude(ft): 5047.37
+ Pressure(Pa): 6153.75
+ Temp(f):      89.94
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:47.00
+ Altitude(ft): 5047.37
+ Pressure(Pa): 6153.75
+ Temp(f):      89.94
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:47.00
+ Altitude(ft): 5042.65
+ Pressure(Pa): 6148.00
+ Temp(f):      90.05
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:48.00
+ Altitude(ft): 5044.70
+ Pressure(Pa): 6150.50
+ Temp(f):      90.05
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:48.00
+ Altitude(ft): 5043.88
+ Pressure(Pa): 6149.50
+ Temp(f):      90.05
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:48.00
+ Altitude(ft): 5044.70
+ Pressure(Pa): 6150.50
+ Temp(f):      90.05
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:49.00
+ Altitude(ft): 5043.88
+ Pressure(Pa): 6149.50
+ Temp(f):      90.05
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:49.00
+ Altitude(ft): 5044.09
+ Pressure(Pa): 6149.75
+ Temp(f):      90.05
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:49.00
+ Altitude(ft): 5035.47
+ Pressure(Pa): 6139.25
+ Temp(f):      90.05
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:50.00
+ Altitude(ft): 5033.01
+ Pressure(Pa): 6136.25
+ Temp(f):      90.16
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:50.00
+ Altitude(ft): 5030.76
+ Pressure(Pa): 6133.50
+ Temp(f):      90.16
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:51.00
+ Altitude(ft): 5032.81
+ Pressure(Pa): 6136.00
+ Temp(f):      90.16
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:51.00
+ Altitude(ft): 5031.99
+ Pressure(Pa): 6135.00
+ Temp(f):      90.16
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:51.00
+ Altitude(ft): 5030.76
+ Pressure(Pa): 6133.50
+ Temp(f):      90.16
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:52.00
+ Altitude(ft): 5027.68
+ Pressure(Pa): 6129.75
+ Temp(f):      90.27
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:52.00
+ Altitude(ft): 5029.12
+ Pressure(Pa): 6131.50
+ Temp(f):      90.16
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:53.00
+ Altitude(ft): 5031.17
+ Pressure(Pa): 6134.00
+ Temp(f):      90.16
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:53.00
+ Altitude(ft): 5031.17
+ Pressure(Pa): 6134.00
+ Temp(f):      90.16
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:54.00
+ Altitude(ft): 5030.96
+ Pressure(Pa): 6133.75
+ Temp(f):      90.27
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:54.00
+ Altitude(ft): 5031.37
+ Pressure(Pa): 6134.25
+ Temp(f):      90.27
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:54.00
+ Altitude(ft): 5031.99
+ Pressure(Pa): 6135.00
+ Temp(f):      90.27
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:55.00
+ Altitude(ft): 5034.45
+ Pressure(Pa): 6138.00
+ Temp(f):      90.27
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:55.00
+ Altitude(ft): 5032.60
+ Pressure(Pa): 6135.75
+ Temp(f):      90.39
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:56.00
+ Altitude(ft): 5035.27
+ Pressure(Pa): 6139.00
+ Temp(f):      90.27
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:56.00
+ Altitude(ft): 5031.58
+ Pressure(Pa): 6134.50
+ Temp(f):      90.27
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:56.00
+ Altitude(ft): 5017.22
+ Pressure(Pa): 6117.00
+ Temp(f):      90.39
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:57.00
+ Altitude(ft): 5012.92
+ Pressure(Pa): 6111.75
+ Temp(f):      90.39
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:57.00
+ Altitude(ft): 5010.46
+ Pressure(Pa): 6108.75
+ Temp(f):      90.39
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:58.00
+ Altitude(ft): 5008.61
+ Pressure(Pa): 6106.50
+ Temp(f):      90.50
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:58.00
+ Altitude(ft): 5003.69
+ Pressure(Pa): 6100.50
+ Temp(f):      90.50
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:58.00
+ Altitude(ft): 5003.28
+ Pressure(Pa): 6100.00
+ Temp(f):      90.50
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:59.00
+ Altitude(ft): 5002.05
+ Pressure(Pa): 6098.50
+ Temp(f):      90.50
+
+Location: INVALID  Date/Time: 6/20/2019 17:26:59.00
+ Altitude(ft): 4998.56
+ Pressure(Pa): 6094.25
+ Temp(f):      90.61
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:00.00
+ Altitude(ft): 4998.56
+ Pressure(Pa): 6094.25
+ Temp(f):      90.61
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:00.00
+ Altitude(ft): 5000.41
+ Pressure(Pa): 6096.50
+ Temp(f):      90.50
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:00.00
+ Altitude(ft): 4997.54
+ Pressure(Pa): 6093.00
+ Temp(f):      90.61
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:01.00
+ Altitude(ft): 5054.75
+ Pressure(Pa): 6162.75
+ Temp(f):      90.50
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:01.00
+ Altitude(ft): 5050.03
+ Pressure(Pa): 6157.00
+ Temp(f):      90.50
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:02.00
+ Altitude(ft): 5049.62
+ Pressure(Pa): 6156.50
+ Temp(f):      90.50
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:02.00
+ Altitude(ft): 5054.13
+ Pressure(Pa): 6162.00
+ Temp(f):      90.50
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:02.00
+ Altitude(ft): 5048.39
+ Pressure(Pa): 6155.00
+ Temp(f):      90.61
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:03.00
+ Altitude(ft): 5045.11
+ Pressure(Pa): 6151.00
+ Temp(f):      90.61
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:03.00
+ Altitude(ft): 5040.81
+ Pressure(Pa): 6145.75
+ Temp(f):      90.61
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:03.00
+ Altitude(ft): 5037.73
+ Pressure(Pa): 6142.00
+ Temp(f):      90.61
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:04.00
+ Altitude(ft): 5037.73
+ Pressure(Pa): 6142.00
+ Temp(f):      90.61
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:04.00
+ Altitude(ft): 5031.17
+ Pressure(Pa): 6134.00
+ Temp(f):      90.72
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:05.00
+ Altitude(ft): 5028.30
+ Pressure(Pa): 6130.50
+ Temp(f):      90.72
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:05.00
+ Altitude(ft): 5028.30
+ Pressure(Pa): 6130.50
+ Temp(f):      90.72
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:05.00
+ Altitude(ft): 5027.68
+ Pressure(Pa): 6129.75
+ Temp(f):      90.72
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:06.00
+ Altitude(ft): 5028.50
+ Pressure(Pa): 6130.75
+ Temp(f):      90.72
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:06.00
+ Altitude(ft): 5025.22
+ Pressure(Pa): 6126.75
+ Temp(f):      90.84
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:07.00
+ Altitude(ft): 5024.61
+ Pressure(Pa): 6126.00
+ Temp(f):      90.84
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:07.00
+ Altitude(ft): 5022.97
+ Pressure(Pa): 6124.00
+ Temp(f):      90.84
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:07.00
+ Altitude(ft): 5023.17
+ Pressure(Pa): 6124.25
+ Temp(f):      90.84
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:08.00
+ Altitude(ft): 5026.25
+ Pressure(Pa): 6128.00
+ Temp(f):      90.84
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:08.00
+ Altitude(ft): 5024.61
+ Pressure(Pa): 6126.00
+ Temp(f):      90.84
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:08.00
+ Altitude(ft): 5026.66
+ Pressure(Pa): 6128.50
+ Temp(f):      90.84
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:09.00
+ Altitude(ft): 5025.43
+ Pressure(Pa): 6127.00
+ Temp(f):      90.95
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:09.00
+ Altitude(ft): 5030.14
+ Pressure(Pa): 6132.75
+ Temp(f):      90.84
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:10.00
+ Altitude(ft): 5035.06
+ Pressure(Pa): 6138.75
+ Temp(f):      90.84
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:10.00
+ Altitude(ft): 5036.91
+ Pressure(Pa): 6141.00
+ Temp(f):      90.84
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:11.00
+ Altitude(ft): 5037.93
+ Pressure(Pa): 6142.25
+ Temp(f):      90.95
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:11.00
+ Altitude(ft): 5037.73
+ Pressure(Pa): 6142.00
+ Temp(f):      90.95
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:11.00
+ Altitude(ft): 5037.11
+ Pressure(Pa): 6141.25
+ Temp(f):      90.95
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:12.00
+ Altitude(ft): 5041.83
+ Pressure(Pa): 6147.00
+ Temp(f):      90.95
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:12.00
+ Altitude(ft): 5042.65
+ Pressure(Pa): 6148.00
+ Temp(f):      90.95
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:13.00
+ Altitude(ft): 5046.14
+ Pressure(Pa): 6152.25
+ Temp(f):      90.95
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:13.00
+ Altitude(ft): 5046.55
+ Pressure(Pa): 6152.75
+ Temp(f):      90.95
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:13.00
+ Altitude(ft): 5049.01
+ Pressure(Pa): 6155.75
+ Temp(f):      90.95
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:14.00
+ Altitude(ft): 5047.98
+ Pressure(Pa): 6154.50
+ Temp(f):      91.06
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:14.00
+ Altitude(ft): 5048.19
+ Pressure(Pa): 6154.75
+ Temp(f):      90.95
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:14.00
+ Altitude(ft): 5047.16
+ Pressure(Pa): 6153.50
+ Temp(f):      91.06
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:15.00
+ Altitude(ft): 5039.78
+ Pressure(Pa): 6144.50
+ Temp(f):      91.06
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:15.00
+ Altitude(ft): 5037.73
+ Pressure(Pa): 6142.00
+ Temp(f):      91.06
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:16.00
+ Altitude(ft): 5032.81
+ Pressure(Pa): 6136.00
+ Temp(f):      91.06
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:16.00
+ Altitude(ft): 5029.32
+ Pressure(Pa): 6131.75
+ Temp(f):      91.18
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:16.00
+ Altitude(ft): 5026.25
+ Pressure(Pa): 6128.00
+ Temp(f):      91.18
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:17.00
+ Altitude(ft): 5024.40
+ Pressure(Pa): 6125.75
+ Temp(f):      91.18
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:17.00
+ Altitude(ft): 5022.97
+ Pressure(Pa): 6124.00
+ Temp(f):      91.18
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:18.00
+ Altitude(ft): 5029.94
+ Pressure(Pa): 6132.50
+ Temp(f):      91.06
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:18.00
+ Altitude(ft): 5028.71
+ Pressure(Pa): 6131.00
+ Temp(f):      91.06
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:18.00
+ Altitude(ft): 5025.43
+ Pressure(Pa): 6127.00
+ Temp(f):      91.18
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:19.00
+ Altitude(ft): 5025.43
+ Pressure(Pa): 6127.00
+ Temp(f):      91.18
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:19.00
+ Altitude(ft): 5030.55
+ Pressure(Pa): 6133.25
+ Temp(f):      91.18
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:20.00
+ Altitude(ft): 5036.50
+ Pressure(Pa): 6140.50
+ Temp(f):      91.18
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:20.00
+ Altitude(ft): 5042.65
+ Pressure(Pa): 6148.00
+ Temp(f):      91.18
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:20.00
+ Altitude(ft): 5048.39
+ Pressure(Pa): 6155.00
+ Temp(f):      91.18
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:21.00
+ Altitude(ft): 5053.93
+ Pressure(Pa): 6161.75
+ Temp(f):      91.18
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:22.00
+ Altitude(ft): 5058.23
+ Pressure(Pa): 6167.00
+ Temp(f):      91.18
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:22.00
+ Altitude(ft): 5066.03
+ Pressure(Pa): 6176.50
+ Temp(f):      91.06
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:22.00
+ Altitude(ft): 5061.72
+ Pressure(Pa): 6171.25
+ Temp(f):      91.18
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:23.00
+ Altitude(ft): 5061.52
+ Pressure(Pa): 6171.00
+ Temp(f):      91.18
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:23.00
+ Altitude(ft): 5053.93
+ Pressure(Pa): 6161.75
+ Temp(f):      91.29
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:23.00
+ Altitude(ft): 5050.44
+ Pressure(Pa): 6157.50
+ Temp(f):      91.29
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:24.00
+ Altitude(ft): 5051.26
+ Pressure(Pa): 6158.50
+ Temp(f):      91.18
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:24.00
+ Altitude(ft): 5048.39
+ Pressure(Pa): 6155.00
+ Temp(f):      91.29
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:25.00
+ Altitude(ft): 5046.14
+ Pressure(Pa): 6152.25
+ Temp(f):      91.29
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:25.00
+ Altitude(ft): 5032.81
+ Pressure(Pa): 6136.00
+ Temp(f):      91.29
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:25.00
+ Altitude(ft): 5034.45
+ Pressure(Pa): 6138.00
+ Temp(f):      91.29
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:26.00
+ Altitude(ft): 5033.22
+ Pressure(Pa): 6136.50
+ Temp(f):      91.29
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:26.00
+ Altitude(ft): 5035.27
+ Pressure(Pa): 6139.00
+ Temp(f):      91.29
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:26.00
+ Altitude(ft): 5032.81
+ Pressure(Pa): 6136.00
+ Temp(f):      91.29
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:27.00
+ Altitude(ft): 5030.35
+ Pressure(Pa): 6133.00
+ Temp(f):      91.29
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:27.00
+ Altitude(ft): 5029.53
+ Pressure(Pa): 6132.00
+ Temp(f):      91.29
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:28.00
+ Altitude(ft): 5026.04
+ Pressure(Pa): 6127.75
+ Temp(f):      91.29
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:28.00
+ Altitude(ft): 5019.27
+ Pressure(Pa): 6119.50
+ Temp(f):      91.40
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:28.00
+ Altitude(ft): 5015.79
+ Pressure(Pa): 6115.25
+ Temp(f):      91.40
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:29.00
+ Altitude(ft): 5011.69
+ Pressure(Pa): 6110.25
+ Temp(f):      91.40
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:29.00
+ Altitude(ft): 5010.05
+ Pressure(Pa): 6108.25
+ Temp(f):      91.40
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:30.00
+ Altitude(ft): 5008.00
+ Pressure(Pa): 6105.75
+ Temp(f):      91.40
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:30.00
+ Altitude(ft): 5008.20
+ Pressure(Pa): 6106.00
+ Temp(f):      91.40
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:30.00
+ Altitude(ft): 5004.51
+ Pressure(Pa): 6101.50
+ Temp(f):      91.40
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:31.00
+ Altitude(ft): 5003.28
+ Pressure(Pa): 6100.00
+ Temp(f):      91.40
+
+Location: INVALID  Date/Time: 6/20/2019 17:27:31.00
