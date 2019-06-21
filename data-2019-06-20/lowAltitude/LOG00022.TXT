@@ -1,6 +1,6 @@
- Altitude(ft): 14948.12
- Pressure(Pa): 18224.75
- Temp(f):      90.05
+A simple demonstration of TinyGPS++ with an attached GPS module
+Testing TinyGPS++ library v. 1.0.2
+by Mikal Hart
 
 Location: INVALID  Date/Time: 6/20/2019 17:18:10.00
  Altitude(ft): 14915.31

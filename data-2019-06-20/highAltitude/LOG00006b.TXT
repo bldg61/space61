@@ -1,4 +1,3 @@
-
 DeviceExample.ino
 A simple demonstration of TinyGPS++ with an attached GPS module
 Testing TinyGPS++ library v. 1.0.2
