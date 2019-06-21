@@ -1,4 +1,3 @@
-Ÿ•çï·Öµ¡±ïπino
 A simple demonstration of TinyGPS++ with an attached GPS module
 Testing TinyGPS++ library v. 1.0.2
 by Mikal Hart
@@ -128102,4 +128101,3 @@ Location: 40.567375,-104.217620  Date/Time: 6/20/2019 20:14:44.00
  Altitude(ft): 4953.66
  Pressure(Pa): 6039.50
  Temp(f):      88.02
-
