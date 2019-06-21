@@ -1,0 +1,37 @@
+DeviceExample.ino
+A simple demonstration of TinyGPS++ with an attached GPS module
+Testing TinyGPS++ library v. 1.0.2
+by Mikal Hart
+
+Location: INVALID  Date/Time: 0/0/2000 00:00:00.00
+ Altitude(ft): 5425.69
+ Pressure(Pa): 6615.00
+ Temp(f):      76.44
+
+Location: INVALID  Date/Time: 0/0/2000 00:00:00.00
+ Altitude(ft): 5432.05
+ Pressure(Pa): 6622.75
+ Temp(f):      76.10
+
+Location: INVALID  Date/Time: 0/0/2000 00:00:00.00
+ Altitude(ft): 5426.30
+ Pressure(Pa): 6615.75
+ Temp(f):      76.32
+
+Location: INVALID  Date/Time: 0/0/2000 00:00:00.00
+ Altitude(ft): 5426.30
+ Pressure(Pa): 6615.75
+ Tem
+
+Location: INVALID  Date/Time: 0/0/2000 00:00:00.00
+ Altitude(ft): 5426.30
+ Pressu
+
+
+Location: INVALID  Date/Time: 0/0/2000 00:00:00.00
+ Alt
+
+Location: INVALID  Date/Ti
+ Alt
+
+Locat
