@@ -1,7 +1,7 @@
 module.exports = (sampleDataForHumans) => {
   const headerAndData = sampleDataForHumans.split('\r').join('').split('Mikal Hart\n\n')
-  console.log("headerAndData: ", headerAndData);
   const rows = headerAndData[1].split('\n\n')
+
   let location, dateTime, altitude, pressure, temp;
   let locationAndRest, dateTimeAndRest, altitudeAndRest, pressureAndRest, tempAndRest;
   const csv = rows.map(row => {
